@@ -5,16 +5,20 @@ source_metadata:
   title: མདའ་དང་འཕང། མཁར་རྨེའུ་བསམ་གཏན་གྱི་གསུང་རྩོམ་ཕྱོགས་བསྒྲིགས།
   author: ''
   volumes:
-    750883a725034aa2bfe055435211ec81:
+    6cca4305759c4151bb3a137cdf8406de:
       image_group_id: I1KG5784
-      title: ''
+      title: Volume 1 of mda' dang 'phang/ mkhar rme'u bsam gtan gyi gsung rtsom phyogs
+        bsgrigs
       volume_number: 1
       total_pages: 510
-    d33b2f935dfb4ed19665825c553b2425:
+      base_file: v001.txt
+    1877c5d9fb9f4675bdae29f42104388a:
       image_group_id: I1KG5785
-      title: ''
+      title: Volume 2 of mda' dang 'phang/ mkhar rme'u bsam gtan gyi gsung rtsom phyogs
+        bsgrigs
       volume_number: 2
       total_pages: 540
+      base_file: v002.txt
 ebook_metadata:
   title: མདའ་དང་འཕང། མཁར་རྨེའུ་བསམ་གཏན་གྱི་གསུང་རྩོམ་ཕྱོགས་བསྒྲིགས།
   author: ''
